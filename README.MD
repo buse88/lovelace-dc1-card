@@ -12,7 +12,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
 斐讯DC1排插卡片,这只是一个Lovelace的前端卡片, 具体硬件部分可以看[罗总的固件](https://github.com/qlwz/esp_dc1).
-
+斐讯DC1链接homeassistant ha的卡片
 + 卡片可以定义多个传感器,显示排插的相关数据
 + 4个switch开关, 3个是插座,还有一个是USB, 可自由排序
 ## 更新
